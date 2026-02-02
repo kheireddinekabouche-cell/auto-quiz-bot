@@ -1,3 +1,2 @@
+pyTelegramBotAPI
 faster-whisper
-moviepy
-python-telegram-bot
